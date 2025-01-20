@@ -39,3 +39,5 @@ elif [[ $check_java_version_result -eq 1 ]]; then
 else
     echo "Java installation completed, but the installed version is outdated."
 fi
+
+# this is the end of the bash 
